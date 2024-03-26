@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{37AC201D-1C90-4E90-897A-8BC12374473D}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TestTask.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestTask/Program.cs">
+    <Files>
+      <File FileName="TestTask/Program.cs" Line="36" Column="66" />
+      <File FileName="Figures/Class1.cs" Line="37" Column="44" />
+      <File FileName="TestTask.Test/UnitTest1.cs" Line="35" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestTask" expanded="True">
+            <Node name="Figures" expanded="True" />
+            <Node name="TestTask">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="TestTask.Test">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TestTask" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestTask PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

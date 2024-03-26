@@ -1,0 +1,11 @@
+/Users/dimafilippov/Projects/TestTask/Figures/bin/Debug/net7.0/Figures.deps.json
+/Users/dimafilippov/Projects/TestTask/Figures/bin/Debug/net7.0/Figures.dll
+/Users/dimafilippov/Projects/TestTask/Figures/bin/Debug/net7.0/Figures.pdb
+/Users/dimafilippov/Projects/TestTask/Figures/obj/Debug/net7.0/Figures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimafilippov/Projects/TestTask/Figures/obj/Debug/net7.0/Figures.AssemblyInfoInputs.cache
+/Users/dimafilippov/Projects/TestTask/Figures/obj/Debug/net7.0/Figures.AssemblyInfo.cs
+/Users/dimafilippov/Projects/TestTask/Figures/obj/Debug/net7.0/Figures.csproj.CoreCompileInputs.cache
+/Users/dimafilippov/Projects/TestTask/Figures/obj/Debug/net7.0/Figures.dll
+/Users/dimafilippov/Projects/TestTask/Figures/obj/Debug/net7.0/refint/Figures.dll
+/Users/dimafilippov/Projects/TestTask/Figures/obj/Debug/net7.0/Figures.pdb
+/Users/dimafilippov/Projects/TestTask/Figures/obj/Debug/net7.0/ref/Figures.dll
